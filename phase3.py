@@ -4,11 +4,16 @@ import random
 import os
 
 queries = [
-    "weather in Ahmedabad",
-    "latest tech news",
-    "Python automation tutorial",
-    "history of India",
-    "how AI works"
+"best places to visit in Gujarat",
+"current gold price in India",
+"healthy diet plan for beginners",
+"latest smartphone launches 2026",
+"how to start investing in stocks",
+"top online courses for coding",
+"daily exercise routine at home",
+"electric vehicles in India future",
+"how to improve communication skills",
+"latest cricket news India"
 ]
 
 SESSION_FILE = "ms_session.json"
